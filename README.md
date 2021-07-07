@@ -11,9 +11,9 @@ On the 27th of April 2021, the UNICC's Chief Technology Officer Shashank Rai ann
 
 Cardea is a fully open source, privacy-perserving ecosystem for digital health credentials initiated by Indicio.tech. The project was recently adopted by The Linux Foundation and an IATA poll concluded that 78% of the participants of the survey will only use a travel health app if they have full control over their data. As Indicio.tech is an active contributer to Aries Framework JavaScript, Cardea is fully based on Aries Framework JavaScript and is one of the first production grade mobile applications built atop the framework.
 
-[Read more about the Cardea project here!](https://cardea.app)
-[Cardea Holder Agent repository](https://github.com/thecardeaproject/cardea-mobile-holder)
-[Cardea Verifier Agent repository](https://github.com/thecardeaproject/cardea-mobile-verifier)
+- [Read more about the Cardea project here!](https://cardea.app)
+- [Cardea Holder Agent repository](https://github.com/thecardeaproject/cardea-mobile-holder)
+- [Cardea Verifier Agent repository](https://github.com/thecardeaproject/cardea-mobile-verifier)
 
 
 ## Animo Mobile Agent PoC
